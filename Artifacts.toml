@@ -1,0 +1,160 @@
+[[PrimalSolver]]
+arch = "aarch64"
+git-tree-sha1 = "59b6bba5455eabff0d0f96eb78c30b08a1de7cd1"
+os = "macos"
+
+    [[PrimalSolver.download]]
+    sha256 = "369e039a699cb360e532bd695c008b515eb508bab74d4397a0c3072ffbe2f077"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.aarch64-apple-darwin.tar.gz"
+[[PrimalSolver]]
+arch = "aarch64"
+git-tree-sha1 = "b79c472d45b05b5f04967a87159b55816830728c"
+libc = "glibc"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "28aa8a11abd6c59821cc9c527905a52552b11476e439f1f5ae248a61c4aa0b39"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.aarch64-linux-gnu.tar.gz"
+[[PrimalSolver]]
+arch = "aarch64"
+git-tree-sha1 = "a07d8fb2efc5a719a0174d6247ebc079d71758c3"
+libc = "musl"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "06621241300b4cbb2adc8b23af4be0ecfeea6af9b2d2009d47ce0e834c326959"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.aarch64-linux-musl.tar.gz"
+[[PrimalSolver]]
+arch = "aarch64"
+git-tree-sha1 = "e4dc50edd61ab5c85a6b7fdc95e20b0d62d945f6"
+os = "freebsd"
+
+    [[PrimalSolver.download]]
+    sha256 = "319ad2a91a473c2c460519a4cc83de3d268fa0adc368cb76f4ca83bf960b9452"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.aarch64-unknown-freebsd.tar.gz"
+[[PrimalSolver]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c9a7cc3becf930aeb011afd8bcd02f97c665a023"
+libc = "glibc"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "0b5cd7a2b50394d924af9d8b8747b27adaa9c73c5749eae74042198802936904"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.armv6l-linux-gnueabihf.tar.gz"
+[[PrimalSolver]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d35636ec05bcdae2f1570f3a7674926b0a35b408"
+libc = "musl"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "f223b81ba2505d2bad5f21daa67cb22aaefef47f674b780046c7c3f4a3df8744"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.armv6l-linux-musleabihf.tar.gz"
+[[PrimalSolver]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "dc2ec5d2a1ca2f1367bfd0fc1985ce502cc0e516"
+libc = "glibc"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "b241f4395783ce37b4d967b159830f13fed8e7ae868d07b7647b3f79c0c0db72"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.armv7l-linux-gnueabihf.tar.gz"
+[[PrimalSolver]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bf4cdb913d6a93df7df5a778c544e1128be477af"
+libc = "musl"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "6358db0737ec0b4d2684380dec17bba48e7ed0054eb9239e0c3fec1f2edc0b2a"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.armv7l-linux-musleabihf.tar.gz"
+[[PrimalSolver]]
+arch = "i686"
+git-tree-sha1 = "4b837cc6614810c3adc988d65355864293b4cc1c"
+libc = "glibc"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "1772f0afaa4aab7245ae68ea71b228a7142cc1f7012ae28d501188f8470bd35d"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.i686-linux-gnu.tar.gz"
+[[PrimalSolver]]
+arch = "i686"
+git-tree-sha1 = "cc2b05669413cb3228055bbe3a266118321b6fdc"
+libc = "musl"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "c850aba4c97900450aa34937114376affbb255961764132d98bb19f45524221b"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.i686-linux-musl.tar.gz"
+[[PrimalSolver]]
+arch = "i686"
+git-tree-sha1 = "e645467359dc48566fee8d00e0ac25733dc5a18d"
+os = "windows"
+
+    [[PrimalSolver.download]]
+    sha256 = "af0119559fd5ecd918dfddea96e3c93a4a32ed23d66ab44ffcef1cfa7777cdaa"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.i686-w64-mingw32.tar.gz"
+[[PrimalSolver]]
+arch = "powerpc64le"
+git-tree-sha1 = "d053f6305148eec62c19737d0856700fed622d0c"
+libc = "glibc"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "5974973b41e8fdeccf6fbc623977fb4e58801712035096ee3dcd659642d905a2"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.powerpc64le-linux-gnu.tar.gz"
+[[PrimalSolver]]
+arch = "riscv64"
+git-tree-sha1 = "9004af97bcc31e24bc555e5d9a69f5fe30fe5e25"
+libc = "glibc"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "350938055ae6ff09251f26c95e230dce7f40fd66345a33d7fc1493469a789a30"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.riscv64-linux-gnu.tar.gz"
+[[PrimalSolver]]
+arch = "x86_64"
+git-tree-sha1 = "bc5081ffc6b8cb77997296cbadc22b9d91bda9a8"
+os = "macos"
+
+    [[PrimalSolver.download]]
+    sha256 = "bb1dfc305e031e05ccc62afd01019f232ac726b655dac79da0c4480b96e911cb"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.x86_64-apple-darwin.tar.gz"
+[[PrimalSolver]]
+arch = "x86_64"
+git-tree-sha1 = "ead1cfc1b38057738dac403cad5eb6afec7acb77"
+libc = "glibc"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "9341783e63795da9ae03f11c46e070ec29c432d079a7501abe1b66666d073bbd"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.x86_64-linux-gnu.tar.gz"
+[[PrimalSolver]]
+arch = "x86_64"
+git-tree-sha1 = "141ad8630c74ec033146662cc8fc07c284371164"
+libc = "musl"
+os = "linux"
+
+    [[PrimalSolver.download]]
+    sha256 = "2e9fa5b5354e3bd0264bb6b9a06a1cbaad83fe67415989409b237b989019681e"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.x86_64-linux-musl.tar.gz"
+[[PrimalSolver]]
+arch = "x86_64"
+git-tree-sha1 = "3317ee0ac78c91c3840038fe3389bb80c7113c3d"
+os = "freebsd"
+
+    [[PrimalSolver.download]]
+    sha256 = "269298645277f527e52b510640f7aac8ba3fc265ec0808aea04f833bdbefffb8"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.x86_64-unknown-freebsd.tar.gz"
+[[PrimalSolver]]
+arch = "x86_64"
+git-tree-sha1 = "7ec6288a2e8ce67525773c68472d4dd3705d4572"
+os = "windows"
+
+    [[PrimalSolver.download]]
+    sha256 = "5c09d5374ff3f11cf6029fdd52da72d9c8044c5eff51d2bdf812dc5489702fc2"
+    url = "https://github.com/JuliaBinaryWrappers/PrimalSolver_jll.jl/releases/download/PrimalSolver-v0.1.5+0/PrimalSolver.v0.1.5.x86_64-w64-mingw32.tar.gz"
